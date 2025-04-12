@@ -1,0 +1,3 @@
+| AAA111 | Toyota | Corolla | 2019 | AVAILABLE | | Seats: 5
+| HONDA | Honda civic added licenseplate by mistake | Civic | 2021 | AVAILABLE | | Seats: 5
+| CCC333 | Ford | Focus | 2024 | AVAILABLE | | Seats: 5
